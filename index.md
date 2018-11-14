@@ -1,13 +1,18 @@
 ## Software Engineering - Portfolio
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This portfolio will mainly focus on the journey throughout this semester as we worked together in order to create a "Semester Tracker". The "Semester Tracker" is exactly as the name suggests. A website used to track the semester with assignments, dates, courses and everything to do with keeping track of the semester. It involves communication and interaction to meet requirements of a client in order to fulfill tasks. Through working together in a team we face challenges due to the teamwork aspect of this paper having to learn values of teamwork and "Agile Priniciples". The Semester Tracker is the results of our collective effor and journey through Laravel, Agiel Principles and Github.
 
-### Markdown
+### Professional Proficiency
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
+
+### Technical Proficiency
+
+
+### CV - Curriculum Vitae 
 
 # Header 1
 ## Header 2
