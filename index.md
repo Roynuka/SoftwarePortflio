@@ -4,15 +4,14 @@ This portfolio will mainly focus on the journey throughout this semester as we w
 
 ### Professional Proficiency
 
+### Technical Proficiency
+
+### CV - Curriculum Vitae 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-### Technical Proficiency
-
-
-### CV - Curriculum Vitae 
 
 # Header 1
 ## Header 2
